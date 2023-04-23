@@ -1,2 +1,2 @@
-# vue-breakout-game
-The Breakout Game built with Vue.js - For learning purpose
+# breakout-game
+The Breakout Game built with js and Phaser - For learning purpose
